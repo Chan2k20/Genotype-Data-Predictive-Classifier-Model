@@ -1,4 +1,4 @@
-# Featture selection (Machine learning)
+# Feature selection (Machine learning)
 
 Performed feature selection using f-score method without using the library on a simulated dataset of single nucleotide polymorphism (SNP) genotype data containing 29623 SNPs (total features), 4000 cases and 4000 controls as training dataset to extract the important features.
 
